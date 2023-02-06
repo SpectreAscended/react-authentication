@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"Test","image":"https://www.udiscovermusic.com/wp-content/uploads/2017/03/Death-Metal-Bands-1000x600.jpg","date":"2023-02-14","description":"testing","id":"fdf50e1c-8dde-4fd6-ba47-17216277cde2"},{"title":"A new event","image":"https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg","date":"2022-10-01","description":"Some awesome event!","id":"2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"}],"users":[{"email":"cory8000@hotmail.com","password":"$2a$12$NyGD836ocnrNoY2Mr5xvEeQDty7mBatBKf6lwOCgGoU.gCl7PPa/K","id":"b1eb74d3-b5e3-45b2-b99d-2e4560b42870"},{"email":"test@test.com","password":"$2a$12$X8PmKMFfzZIzvJrUokuBF.tSId.gXUpQXi9Ubia2bvMRLY1eKBvCG","id":"1e149765-612f-4189-84b2-0f39f71b749e"},{"email":"test2@test.com","password":"$2a$12$uff7Bbhzv.LTEDbPP.Gko.0Rb1fbFfXRaVWlShxoteT7jbPo8x8FS","id":"63e47062-2afc-4a8e-b10b-da663dde52a2"}]}
