@@ -48,6 +48,10 @@ export const action = async ({ request }) => {
   const token = resData.token;
 
   localStorage.setItem('token', token);
+  // Expiration is set at 1 hour in the backend.  Here, we set the hour to the current hour, and add one to know when one hour will have elapsed
+  const expiration = new Date();
+  expiration.setHours(expiration.getHours() + 1);
+  localStorage.setItem('expiration', expiration.toISOString());
 
   return redirect('/');
 };
